@@ -5,7 +5,7 @@
 			 
 			var NepPlayer = "#emu";
 			 
-			var NepEmu = "nds";
+			var NepEmu = "psx";
 			 
 			var NepZoom = "enable";
 			 
@@ -17,6 +17,6 @@
 			 
 			var Emundsair = "false";
 			 
-			var gameUrl = "https://emulatoronline.comwp-content/uploads/2018/01/bomberman-2.zip";
+			var gameUrl = "https://roms.retrogames.onl/psx/games/gran-turismo-2-arcade.zip";
 				 
-			var SaveTitle = "bomberman-2";
+			var SaveTitle = "gr2";

@@ -17,6 +17,6 @@
 			 
 			var Emundsair = "false";
 			 
-			var gameUrl = "https://roms.retrogames.onl/psx/games/gran-turismo-2-arcade.zip";
+			var gameUrl = "https://bartixxx32.gitlab.io/emulator/gr.zip";
 				 
 			var SaveTitle = "gr2";

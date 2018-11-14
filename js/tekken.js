@@ -16,7 +16,9 @@
 			var NepLang = "en";
 			 
 			var Emundsair = "false";
+
+			var psxBios = "https://bartixxx32.gitlab.io/emulator/bios.zip";
 			 
-			var gameUrl = "https://bartixxx32.gitlab.io/emulator/gr.zip";
+			var gameUrl = "https://bartixxx32.gitlab.io/emulator/tekken.zip";
 				 
 			var SaveTitle = "gr2";

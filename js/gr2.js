@@ -17,8 +17,8 @@
 			 
 			var Emundsair = "false";
 			
-			var psxBios = "https://bartixxx32.gitlab.io/emulator/bios.zip";
+			var psxBios = "https://emupsx.netlify.com/bios.zip";
 
-			var gameUrl = "https://bartixxx32.gitlab.io/emulator/gr.zip";
+			var gameUrl = "https://emupsx.netlify.com/gr.zip";
 				 
 			var SaveTitle = "gr2";

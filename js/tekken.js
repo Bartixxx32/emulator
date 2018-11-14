@@ -17,8 +17,8 @@
 			 
 			var Emundsair = "false";
 
-			var psxBios = "https://emupsx.netlify.com/bios.zip";
+			var psxBios = "http://emulatorpsx.5v.pl/bios.zip";
 			 
-			var gameUrl = "https://emupsx.netlify.com/tekken.zip";
+			var gameUrl = "http://emulatorpsx.5v.pl/tekken.zip";
 				 
 			var SaveTitle = "gr2";
